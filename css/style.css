@@ -145,7 +145,7 @@ img {
   justify-content: center;
   height: 100vh;
   text-align: center;
-  background-image: url('/img/IMG_6640.jpg');
+  background-image: url('../img/IMG_6640.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -347,7 +347,7 @@ img {
 ---------------------------------*/
 .contact {
   text-align: center;
-  background-image: url('/img/IMG_6640.jpg');
+  background-image: url('../img/IMG_6640.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
